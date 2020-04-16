@@ -1,0 +1,2 @@
+      invoke  active_record
+    conflict    db/migrate/20200416195401_change_cart_id_null_true.rb
